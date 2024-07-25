@@ -11,7 +11,7 @@ The case is designed to fit the next components:
 - A HW-373 v1.20 charging board
 - A power switch E-SWITCH EG1218
 
-The case size (mm) is 25h x 56w x 44d  
+The case size is 25h-56w-44d mm
 
 Everything is designed with high precision for the main purpose of the compact case. Ensure you have high resolution 3D printer fo r the best result.
 
