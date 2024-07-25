@@ -1,4 +1,4 @@
-Hello everubody.
+Hello everybody.
 
 This repository is related to the open source SlimeVR project.
 
