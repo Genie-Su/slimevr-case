@@ -9,6 +9,7 @@ The case is designed to fit the next components:
 - A computer board D1 mini v.4
 - An Adafruit BNO085 board (gyroscope)
 - A HW-373 v1.20 charging board
+- A power switch E-SWITCH EG1218
 
 The case size (mm) is 25h x 56w x 44d  
 
