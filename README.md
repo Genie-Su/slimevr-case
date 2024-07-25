@@ -10,6 +10,8 @@ The case is designed to fit the next components:
 - An Adafruit BNO085 board (gyroscope)
 - A HW-373 v1.20 charging board
 
+The case size (mm) is 25h x 56w x 44d  
+
 Everything is designed with high precision for the main purpose of the compact case. Ensure you have high resolution 3D printer fo r the best result.
 
 Good luck!
